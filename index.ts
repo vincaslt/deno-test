@@ -1,4 +1,4 @@
-import { test } from './test'
+import { test } from './test.ts'
 
 export function printit() {
   console.log(test)
